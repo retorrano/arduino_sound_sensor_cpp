@@ -1,13 +1,9 @@
-this code will turn on and turn off the LED with clapping.
-connection
-Sound_module  arduino
-AO            AO
-+             5V
-G             GND
+This code will turn on and turn off the LED with clapping.
 
-LED           arduino
-+             digital pin 2
--             GND
+## Connection
+
+**Sound Module to Arduino**
+
 
 
 
